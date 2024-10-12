@@ -4,7 +4,7 @@ let operation = null;
 const inputWindow = document.getElementById('inputWindow');
 
 
-document.getElementById('btn_clr').addEventListener('click', function () {
+document.getElementById('clr').addEventListener('click', function () {
     lastOperand = 0;
     operation = null;
     inputWindow.value = '';
