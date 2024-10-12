@@ -105,8 +105,8 @@ document.getElementById('btn_quot').addEventListener('click', function () {
     operation = 'quot';
     inputWindow.value = '';
 })
-document.getElementById('btn_sq').addEventListener('click', function () {
-    
+document.getElementById('btn_sq').addEventListener('click', function () {   
+
     lastOperand = parseInt(inputWindow.value);
     operation = 'sq';
     inputWindow.value = '';
