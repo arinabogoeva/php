@@ -7,3 +7,12 @@
     text-align: end;
     font-size: x-large;
 }
+
+#clr {
+    background-color: red;
+}
+
+.btn {
+    background-color: royalblue;
+}
+
